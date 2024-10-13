@@ -1,6 +1,6 @@
 👋 Hi, I’m Grant Winns
 
-Founder and CEO of [Yuna Health](https://www.yuna.io)
+Founder and CEO of <a href="https://www.yuna.io?utm_source=readme&utm_medium=github&utm_campaign=profile" target="_blank" rel="noopener noreferrer">Yuna Health</a>
 
 🧠 Entrepreneur & Visionary: I’ve built multiple startups from scratch, with 4 successful exits. Now, I’m on a mission to revolutionize mental health by bringing therapy to your pocket through Yuna—an AI-powered therapy app.
 🌎 Building a Global Impact: Mental health care is expensive, slow, and difficult to access for most. That’s why I created Yuna, a purpose-built AI solution making quality therapy accessible for everyone, anywhere, anytime.
