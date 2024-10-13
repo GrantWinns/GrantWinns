@@ -34,7 +34,8 @@ That’s the part no one tells you—success isn’t always fulfilling.
 
 Scaling companies, building brands, and making money didn’t solve the deeper problems I faced or the challenges people around me were struggling with.
 
-I Care About Mental Health...
+
+**I Care About Mental Health...**
 
 Burnout. Stress. Anxiety. 
 
