@@ -1,4 +1,8 @@
-# Who I Am
+
+
+Founder and CEO of <a href="https://www.yuna.io?utm_source=readme&utm_medium=github&utm_campaign=profile" target="_blank" rel="noopener noreferrer">Yuna Health</a>
+
+## 👋 Hi, I’m Grant Winns
 
 I didn’t just stumble into technology—I fell in love with it.
 
@@ -32,7 +36,7 @@ That’s the part no one tells you—success isn’t always fulfilling.
 
 Scaling companies, building brands, and making money didn’t solve the deeper problems I faced—or the challenges the people around me were struggling with.
 
-I Care About Mental Health…
+#### I Care About Mental Health…
 
 Burnout. Stress. Anxiety.
 
@@ -78,7 +82,7 @@ What I Do (and Don’t)
 
 → I Live for Bucket-List Adventures. Last one? Galloping on horseback in Africa, chasing zebras across the savannah. Life is too short to say yes to mediocrity.
 
-My Philosophy
+#### My Philosophy
 
 If you’re reading this, here’s what you need to know: Working with me means building something that matters.
 
@@ -90,7 +94,7 @@ We’re designing the future of mental health. We’re building tools that milli
 
 If you’ve ever felt like your talents were wasted on things that didn’t matter—here’s your chance to change that.
 
-Why You Should Join Us
+#### Why You Should Join Us
 
 I’m not here to play small, and neither are you.
 
