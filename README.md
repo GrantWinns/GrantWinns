@@ -9,7 +9,9 @@ Founder and CEO of Yuna Health
 I’m constantly exploring LLMs, AI-powered self-guided care models, biometric health insights, and scaling products globally. Yuna is my sandbox for pioneering the future of digital therapy.
 
 💡 Looking to Collaborate On: I’m always on the lookout for highly-skilled backend engineers (Go preferred), AI enthusiasts, data scientists, and front-end wizards who want to build something meaningful. Together, we can change lives, grow at scale, and push the boundaries of what AI can do for mental health.
+
 📫 How to Reach Me: DM me on LinkedIn or email me at grant@yuna.ai. I’m quick to respond—love to chat about tech, mental health innovation, or new ideas.
+
 ⚡ Fun Fact: I’ve lived and worked remotely across the U.S., exploring wild adventures while chasing the dream of making the world happier and healthier, one user at a time. 🌊🏕️
 
 Follow me and join Yuna’s mission! Let’s build the future of mental health together—an app that reaches tens of millions, makes therapy affordable, and scales organically through innovation.
