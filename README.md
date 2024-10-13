@@ -1,4 +1,4 @@
-## Who I Am
+# Who I Am
 
 I didn’t just stumble into technology—I fell in love with it.
 
