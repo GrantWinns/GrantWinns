@@ -4,89 +4,108 @@ Founder and CEO of <a href="https://www.yuna.io?utm_source=readme&utm_medium=git
 
 ## 👋 Hi, I’m Grant Winns
 
-I didn’t just stumble into technology—I fell in love with it.
+I didn’t just stumble into technology, I fell in love with it at 14 when I built my first gaming computer.
 
-When I was a kid, I taught myself QBasic. No teachers, no courses—just curiosity and a desire to figure things out.
+When I was a kid, I taught myself QBasic, by being curios with desire to figure things out.
 
-That early experience taught me something important: Every problem has a solution if you care enough to look for it.
+That early experience taught me something important, all problems has a solution as long as you care enough to look, and keep looking.
 
-That mindset took me places.
+That mindset is gold.
 
-I ended up working at Apple, where I didn’t just do the job—I excelled in it.
+I ended up working at Apple, where I excelled.
 
-Eventually, I was leading Apple Core, a 3-day offsite cultural training program, teaching retail staff how to embody the company’s values.
+Eventually, I lead Apple Core, a 3-day offsite for cultural training. I was teaching retail staff how to embody the company’s values, sell, and about the tech in 2009.
 
-Apple wasn’t just about products—it was about thinking differently, and I lived that philosophy every day.
+Apple was was about thinking differently and I love that philosophy.
 
-But here’s the thing…
+But, here’s the thing…
 
-Working inside a business never felt like my endgame. I needed more.
+They didn't make it easy to work ON the business.
 
-I wanted to work on the business.
+I want to improve things, at scale, and they we're a well-oiled machine already.
 
-So, at 20 years old, I quit my job and started my first company.
+So, at 20y/o old, I quit, and started my first company.
 
-I hustled, failed, learned, and eventually built and sold that business (acquired by a conglomerate).
+I work my butt off, failed, learned, and eventually built and sold that first business (acquired by a conglomerate).
 
-That small win gave me the fuel to launch more ventures, and before I knew it, I was running one of the fastest-growing brands in fashion and apparel, generating nine figures in revenue.
+That win gave me the fuel to launch more ventures, and before I knew it, I was running one of the fastest-growing brands in fashion and apparel, generating nine figures in revenue.
 
-Sounds glamorous, right? It wasn’t.
+Sounds glamorous for sure? But selling it wasn’t.
 
-That’s the part no one tells you—success isn’t always fulfilling.
+That’s the part exited-founders don't tell you...
 
-Scaling companies, building brands, and making money didn’t solve the deeper problems I faced—or the challenges the people around me were struggling with.
+Success isn’t always fulfilling.
 
-#### I Care About Mental Health…
+Scaling companies, building brands, and making money didn’t solve the deeper problems.
 
-Burnout. Stress. Anxiety.
+The people around me were struggling, I stuggled, too.
 
-These aren’t buzzwords—they’re real.
+#### This is why I Care About Mental Health…
 
-I’ve seen it up close: brilliant people breaking down, high performers hitting walls, and friends struggling with things they didn’t know how to talk about.
+Life happnes. Big or small moments. 
+
+Life happens, and mental toughness, fortitude, resilience can we learned.
+
+Therapy offers real skills, that will level you up. 
+
+I’ve seen it up close, brilliant people breaking down, high performers hitting walls, and friends struggling with things they didn’t know how to talk about.
 
 I’ve been through it, too.
 
-The worst part? Therapy is broken.
+The issue is that "Traditional Therapy is really, like accually, broken.
 
-It’s expensive, slow, and inaccessible to the people who need it most.
+It’s expensive, slow, and inaccessible to the people, when they need it most.
 
 The system is designed for a few, not for everyone.
 
-But here’s the good news: Technology can fix this—if we’re bold enough to try.
+But the good news is that Technology can fix that!  
 
-That’s why I built Yuna.
+If we’re bold enough to try.
 
-Yuna isn’t just an app—it’s a new way to approach mental health.
+That’s why I'm builing Yuna.
 
-This isn’t just a foundational model, a clever prompt, and a payment processor—that’s the easy part.
+If you on this team...
 
-We’re using AI, biometric insights, and self-learning multi-agent systems to deliver affordable, accessible therapy to anyone, anywhere.
+You're a part of a real change. 
 
-We’re not waiting for people to hit rock bottom—Yuna intervenes proactively, providing real-time support before issues escalate.
+Somthing that was not possible before today. 
 
-We’re building humanity’s next healing modality.
+This is a totally new way to approach mental health.
 
-Our mission is simple: Democratize mental health care and change the way the world thinks about well-being.
+We’re solving this problem with AI, biometric insights, and self-learning multi-agent systems that can deliver affordable, accessible care to anyone, anywhere.
 
-And I’m not doing it alone—I’m looking for people who want to build something meaningful and world-changing.
+We’re not waiting for people to hit rock bottom. 
 
-If you’re reading this… I’m looking for you.
+The future of care intervenes proactively, providing real-time support before issues escalate.
+
+We’re building humanity’s next large healing modality. LHM
+
+Our mission is simple... 
+
+To democratize mental health care... and change the way the world thinks about well-being.
+
+We're not alone doing this. 
+
+I feel so lucky to build something meaningful, and world-changers.
+
+With you... if you’re reading this.
 
 What I Do (and Don’t)
 
-→ I Don’t Drink Alcohol. Not because I have to—but because clarity is a weapon, and I want my mind sharp.
-
-→ I Don’t Waste Time on Social Media. Conversations matter. Focus matters. Endless scrolling? Not for me.
-
-→ I Don’t Say Yes to Every Invitation. Weddings, birthdays, random events society expects us to attend—I skip them. My time goes to what fuels my soul, not what checks a box.
-
-→ I Live for Bucket-List Adventures. Last one? Galloping on horseback in Africa, chasing zebras across the savannah. Life is too short to say yes to mediocrity.
+→ I Don’t Drink Alcohol. 
+→ I Don’t Waste Time on Social Media.
+→ I Don’t Say Yes to Every Invitation. (Weddings, birthdays, etc) 
+→ I do live for Bucket-List Adventures. 
 
 #### My Philosophy
 
-If you’re reading this, here’s what you need to know: Working with me means building something that matters.
+If you’re reading this, here’s what you need to know about me.
 
-I don’t settle for average. I believe big problems deserve bold solutions, and I surround myself with the smartest, most ambitious people in the world—people who believe they can actually change things.
+Working with me means building something that matters.
+
+I believe big problems need smart solutions. 
+
+Surrounding myself with the smartest, most ambitious people in the world—people who believe they can actually change things.
 
 At Yuna, we’re not interested in incremental improvements.
 
@@ -96,13 +115,15 @@ If you’ve ever felt like your talents were wasted on things that didn’t matt
 
 #### Why You Should Join Us
 
-I’m not here to play small, and neither are you.
+Your not here to play small, and neither am I.
 
-If you’re smart, driven, and ready to solve real problems, we should talk.
+You’re smart, driven, and ready to solve real problems.
 
-I want builders, thinkers, and doers on this journey—people who are ready to create something remarkable and make an impact.
+You're a builder, thinker, a doer. 
 
-If that’s you, stop waiting.
+You're ready to create something remarkable and make an impact.
+
+If that’s you, stop waiting, let's go.
 
 Reach out, and let’s build the future together. 🚀
 
