@@ -4,7 +4,7 @@ Founder and CEO of <a href="https://www.yuna.io?utm_source=readme&utm_medium=git
 
 ## 👋 Hi, I’m Grant Winns
 
-I didn’t just stumble into technology, I fell in love with it at 14 when I built my first gaming computer.
+I fell in love with tech at 14, when I built my first gaming computer.
 
 When I was a kid, I taught myself QBasic, by being curios with desire to figure things out.
 
