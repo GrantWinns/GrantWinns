@@ -6,7 +6,7 @@ Founder and CEO of <a href="https://www.yuna.io?utm_source=readme&utm_medium=git
 
 I fell in love with tech at 14, when I built my first gaming computer.
 
-When I was a kid, I taught myself QBasic, by being curios with desire to figure things out.
+When I was a kid, I taught myself QBasic, by being curious with desire to figure things out.
 
 That early experience taught me something important, all problems has a solution as long as you care enough to look, and keep looking.
 
